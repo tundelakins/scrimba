@@ -1,0 +1,13 @@
+.pricing {
+    display: flex;
+}
+
+.ind {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.ent {
+    margin-left: 20px;
+    margin-right: 20px;
+}
